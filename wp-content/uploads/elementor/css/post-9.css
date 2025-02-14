@@ -1,0 +1,22 @@
+.elementor-kit-9{--e-global-color-primary:#EC3848;--e-global-color-secondary:#000000;--e-global-color-text:#000000;--e-global-color-accent:#FFFFFF;--e-global-color-d0e3305:#818181;--e-global-typography-primary-font-family:"Mulish_Roofly";--e-global-typography-primary-font-size:52px;--e-global-typography-primary-font-weight:bold;--e-global-typography-secondary-font-family:"Mulish_Roofly";--e-global-typography-secondary-font-size:32px;--e-global-typography-secondary-font-weight:normal;--e-global-typography-text-font-family:"Mulish_Roofly";--e-global-typography-text-font-size:18px;--e-global-typography-text-font-weight:normal;--e-global-typography-accent-font-family:"Mulish_Roofly";--e-global-typography-accent-font-size:48px;--e-global-typography-accent-font-weight:300;}.elementor-kit-9 h1{font-family:"Mulish_Roofly", Sans-serif;font-size:52px;font-weight:bold;}.elementor-kit-9 h2{font-family:"Mulish_Roofly", Sans-serif;font-size:48px;font-weight:bold;}.elementor-kit-9 h3{font-family:"Mulish_Roofly", Sans-serif;font-size:42px;font-weight:bold;}.elementor-kit-9 h4{font-family:"Mulish_Roofly", Sans-serif;font-size:38px;font-weight:bold;}.elementor-kit-9 h5{font-family:"Mulish_Roofly", Sans-serif;font-size:32px;font-weight:bold;}.elementor-kit-9 h6{font-family:"Mulish_Roofly", Sans-serif;font-size:28px;font-weight:bold;}.elementor-section.elementor-section-boxed > .elementor-container{max-width:1140px;}.e-container{--container-max-width:1140px;}.elementor-widget:not(:last-child){margin-bottom:20px;}.elementor-element{--widgets-spacing:20px;}{}h1.entry-title{display:var(--page-title-display);}.elementor-kit-9 e-page-transition{background-color:#FFBC7D;}@media(max-width:1024px){.elementor-section.elementor-section-boxed > .elementor-container{max-width:1024px;}.e-container{--container-max-width:1024px;}}@media(max-width:767px){.elementor-section.elementor-section-boxed > .elementor-container{max-width:767px;}.e-container{--container-max-width:767px;}}/* Start Custom Fonts CSS */@font-face {
+	font-family: 'Mulish_Roofly';
+	font-style: normal;
+	font-weight: 300;
+	font-display: auto;
+	src: url('https://demo.roofly.com/wp-content/uploads/2025/02/Mulish-Regular.ttf') format('truetype');
+}
+@font-face {
+	font-family: 'Mulish_Roofly';
+	font-style: normal;
+	font-weight: normal;
+	font-display: auto;
+	src: url('https://demo.roofly.com/wp-content/uploads/2025/02/Mulish-Medium.ttf') format('truetype');
+}
+@font-face {
+	font-family: 'Mulish_Roofly';
+	font-style: normal;
+	font-weight: bold;
+	font-display: auto;
+	src: url('https://demo.roofly.com/wp-content/uploads/2025/02/Mulish-Bold.ttf') format('truetype');
+}
+/* End Custom Fonts CSS */
